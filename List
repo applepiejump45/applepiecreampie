@@ -1,4 +1,4 @@
-local ui = game:GetService("CoreGui"):FindFirstChild("GYATNOTIF")
+eeelocal ui = game:GetService("CoreGui"):FindFirstChild("GYATNOTIF")
 if ui then ui:Destroy() end
 
 local TweenService = game:GetService("TweenService");
